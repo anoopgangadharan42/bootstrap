@@ -1,0 +1,22 @@
+.carousel-slide{
+    width: 100%;
+    height: auto;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2KrJGw-TNTl5djnxSoJEPfFDR0w4WCoctA&usqp=CAU);
+   background-size: cover;
+   background-attachment: fixed ;
+   text-align: center; 
+    
+}
+ .container{
+    text-align: center;
+    
+ }
+ 
+.card-text-bg-dark{
+    width: 100%;
+    height: auto;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbOCUt3cm_zPrOFXhqBlxypFztdKlQF99zzA&usqp=CAU);
+   background-size: cover;
+   background-attachment: fixed ;
+
+}
